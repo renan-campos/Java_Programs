@@ -23,7 +23,7 @@ public class Calculator extends JFrame implements ActionListener{
 		
 		super(title);
 		
-		//switch these to buttons		
+		//Switch these to buttons		
 		l1 = new JLabel("Enter a number: ");
 		l2 = new JLabel("Enter another number: ");
 		l3 = new JLabel("Enter an operation: ");
