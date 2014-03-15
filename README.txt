@@ -1,6 +1,6 @@
 Programmer: Renan Campos
 
-My Java Programs
+My Java Programs:
 
 Calc		- A calculator I made my junior year of high school.
 Calculator	- A simpler implementation of my calculator program.

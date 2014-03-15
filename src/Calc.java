@@ -13,10 +13,10 @@ import javax.swing.*;
 public class Calc extends JFrame implements ActionListener{
 	
 	
-	private int num1, num2, ops;               //ops enumerations: + 1; - 2; * 3; / 4;
+	private int num1, num2, ops;               // Ops enumerations: + 1; - 2; * 3; / 4;
 	JTextField inout;
 	JButton b0,b1,b2,b3,b4,b5,b6,b7,b8,b9;     // Numbers
-	JButton add, sub, mul, div, clear, equals; //Operations
+	JButton add, sub, mul, div, clear, equals; // Operations
 	JPanel io, buttons, r1, r2, r3, r4;
 
 
