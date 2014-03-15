@@ -1,3 +1,11 @@
+/* Programmer: Renan Campos
+ *
+ * Description:
+ *
+ * A simple implementation of a calculator.
+ *
+ */
+
 
 import java.awt.*;
 import java.awt.event.*;
